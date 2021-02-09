@@ -1,0 +1,686 @@
+AAIC,  3.7000,  Real Estate,  REIT—Mortgage
+ABEO,  2.6700,  Healthcare,  Biotechnology
+ABEV,  2.9400,  Consumer Defensive,  Beverages—Brewers
+ABIO,  4.7600,  Healthcare,  Biotechnology
+ABUS,  4.2900,  Healthcare,  Biotechnology
+ACCO,  8.95,  Industrials,  Business Equipment & Supplies
+ACER,  4.0500,  Healthcare,  Biotechnology
+ACH,  8.11,  Basic Materials,  Aluminum
+ACIU,  6.82,  Healthcare,  Biotechnology
+ACOR,  7.36,  Healthcare,  Biotechnology
+ACRX,  2.3500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ACTG,  7.16,  Industrials,  Specialty Business Services
+ADAP,  6.26,  Healthcare,  Biotechnology
+ADMA,  2.6300,  Healthcare,  Biotechnology
+ADMP,  1.3000,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ADMS,  6.00,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ADT,  9.38,  Industrials,  Security & Protection Services
+ADTX,  3.4500,  Healthcare,  Biotechnology
+AEG,  4.3200,  Financial Services,  Insurance—Diversified
+AEZS,  1.1800,  Healthcare,  Biotechnology
+AFI,  4.4900,  Industrials,  Building Products & Equipment
+AFMD,  5.99,  Healthcare,  Biotechnology
+AGEN,  5.18,  Healthcare,  Biotechnology
+AGFS,  2.2800,  Consumer Defensive,  Farm Products
+AGI,  7.98,  Basic Materials,  Gold
+AGLE,  7.72,  Healthcare,  Biotechnology
+AGRO,  8.02,  Consumer Defensive,  Farm Products
+AGRX,  3.0000,  Healthcare,  Drug Manufacturers—Specialty & Generic
+AGS,  6.21,  Consumer Cyclical,  Gambling
+AGTC,  5.35,  Healthcare,  Biotechnology
+AHC,  2.4500,  Communication Services,  Publishing
+AHT,  3.0000,  Real Estate,  REIT—Hotel & Motel
+AIV,  4.8700,  Real Estate,  REIT—Residential
+AKBA,  4.57,  Healthcare,  Biotechnology
+ALSK,  3.2800,  Communication Services,  Telecom Services
+ALTG,  9.97,  Industrials,  Rental & Leasing Services
+ALTO,  7.90,  Energy,  Oil & Gas Refining & Marketing
+AM,  8.01,  Energy,  Oil & Gas Midstream
+AMC,  7.17,  Communication Services,  Entertainment
+AMPY,  2.6100,  Energy,  Oil & Gas E&P
+AMRN,  8.50,  Healthcare,  Biotechnology
+AMRX,  5.17,  Healthcare,  Drug Manufacturers—Specialty & Generic
+AMTX,  7.59,  Energy,  Oil & Gas Refining & Marketing
+ANH,  2.6800,  Real Estate,  REIT—Mortgage
+ANTE,  3.5000,  Communication Services,  Telecom Services
+AP,  7.52,  Industrials,  Metal Fabrication
+APTO,  4.5400,  Healthcare,  Biotechnology
+APTS,  7.67,  Real Estate,  REIT—Residential
+APTX,  3.9700,  Healthcare,  Biotechnology
+AQB,  9.78,  Consumer Defensive,  Farm Products
+AQMS,  6.08,  Industrials,  Waste Management
+AQST,  6.20,  Healthcare,  Biotechnology
+AR,  7.42,  Energy,  Oil & Gas E&P
+ARC,  2.1900,  Industrials,  Specialty Business Services
+ARCO,  5.38,  Consumer Cyclical,  Restaurants
+ARDX,  7.31,  Healthcare,  Biotechnology
+ARLO,  8.52,  Industrials,  Security & Protection Services
+ARLP,  6.31,  Energy,  Thermal Coal
+AROC,  9.51,  Energy,  Oil & Gas Equipment & Services
+ASC,  3.6000,  Industrials,  Marine Shipping
+ASMB,  6.28,  Healthcare,  Biotechnology
+ASRT,  0.8797,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ASRV,  3.8600,  Financial Services,  Banks—Regional
+ASUR,  9.15,  Technology,  Software—Application
+ASYS,  7.96,  Technology,  Semiconductor Equipment & Materials
+AT,  2.9800,  Utilities,  Utilities—Independent Power Producers
+ATAX,  4.6000,  Financial Services,  Mortgage Finance
+ATHX,  2.7500,  Healthcare,  Biotechnology
+ATOS,  4.0000,  Healthcare,  Biotechnology
+ATRS,  4.7400,  Healthcare,  Medical Instruments & Supplies
+AUTO,  3.3200,  Communication Services,  Internet Content & Information
+AUY,  4.7900,  Basic Materials,  Gold
+AVCT,  8.37,  Technology,  Information Technology Services
+AVDL,  8.95,  Healthcare,  Drug Manufacturers—Specialty & Generic
+AVEO,  9.25,  Healthcare,  Biotechnology
+AWH,  8.09,  Healthcare,  Diagnostics & Research
+AWRE,  4.99,  Technology,  Software—Application
+AXAS,  3.6250,  Energy,  Oil & Gas E&P
+AXL,  9.83,  Consumer Cyclical,  Auto Parts
+AYRO,  7.35,  Consumer Cyclical,  Auto Manufacturers
+BBAR,  2.9500,  Financial Services,  Banks—Regional
+BBD,  4.8600,  Financial Services,  Banks—Regional
+BBDC,  9.15,  Financial Services,  Credit Services
+BBVA,  5.29,  Financial Services,  Banks—Diversified
+BBW,  5.25,  Consumer Cyclical,  Specialty Retail
+BCLI,  7.32,  Healthcare,  Biotechnology
+BCRX,  9.99,  Healthcare,  Biotechnology
+BCS,  8.07,  Financial Services,  Banks—Diversified
+BDSI,  4.1900,  Healthcare,  Biotechnology
+BEST,  2.5000,  Industrials, 
+BGCP,  4.0795,  Financial Services,  Capital Markets
+BHR,  5.40,  Real Estate,  REIT—Hotel & Motel
+BIOC,  7.38,  Healthcare,  Diagnostics & Research
+BKCC,  3.4000,  Financial Services,  Asset Management
+BKD,  5.50,  Healthcare,  Medical Care Facilities
+BKEP,  2.0900,  Energy,  Oil & Gas Midstream
+BMRA,  7.63,  Healthcare,  Diagnostics & Research
+BNED,  6.91,  Consumer Cyclical,  Specialty Retail
+BPT,  3.5900,  Energy,  Oil & Gas Refining & Marketing
+BRFS,  4.2000,  Consumer Defensive,  Packaged Foods
+BRY,  4.3600,  Energy,  Oil & Gas E&P
+BSBR,  7.72,  Financial Services,  Banks—Regional
+BSGM,  5.09,  Healthcare,  Medical Devices
+BSM,  9.73,  Energy,  Oil & Gas E&P
+BSMX,  5.20,  Financial Services,  Banks—Regional
+BSQR,  4.26,  Technology,  Software—Application
+BTU,  3.8000,  Energy,  Thermal Coal
+BW,  6.37,  Industrials,  Electrical Equipment & Parts
+BXRX,  1.7700,  Healthcare,  Biotechnology
+CAAS,  6.77,  Consumer Cyclical,  Auto Parts
+CALA,  3.1900,  Healthcare,  Biotechnology
+CAN,  6.91,  Technology,  Computer Hardware
+CAPR,  6.89,  Healthcare,  Biotechnology
+CASA,  8.34,  Technology,  Communication Equipment
+CATB,  3.3100,  Healthcare,  Biotechnology
+CBAT,  7.78,  Industrials,  Electrical Equipment & Parts
+CBAY,  6.09,  Healthcare,  Biotechnology
+CBIO,  5.95,  Healthcare,  Biotechnology
+CCLP,  1.6900,  Energy,  Oil & Gas Equipment & Services
+CCO,  1.9400,  Communication Services,  Advertising Agencies
+CCRN,  9.43,  Industrials,  Staffing & Employment Services
+CDE,  9.19,  Basic Materials,  Gold
+CDEV,  3.4500,  Energy,  Oil & Gas E&P
+CDTX,  2.5500,  Healthcare,  Biotechnology
+CDXC,  5.27,  Healthcare,  Biotechnology
+CECE,  7.19,  Industrials,  Pollution & Treatment Controls
+CEIX,  9.39,  Energy,  Thermal Coal
+CEL,  3.6600,  Communication Services,  Telecom Services
+CEMI,  7.77,  Healthcare,  Diagnostics & Research
+CERC,  3.4300,  Healthcare,  Biotechnology
+CERS,  7.65,  Healthcare,  Biotechnology
+CFRX,  5.19,  Healthcare,  Biotechnology
+CHMA,  4.4653,  Healthcare,  Biotechnology
+CHS,  2.3400,  Consumer Cyclical,  Apparel Retail
+CHU,  5.45,  , 
+CIA,  5.81,  Financial Services,  Insurance—Life
+CIG,  2.6500,  Utilities,  Utilities—Diversified
+CLBS,  2.2700,  Healthcare,  Biotechnology
+CLIR,  4.5300,  Industrials,  Pollution & Treatment Controls
+CLMT,  3.9000,  Energy,  Oil & Gas E&P
+CLNY,  5.39,  Real Estate,  REIT—Diversified
+CLS,  9.00,  Technology,  Electronic Components
+CLSD,  3.4700,  Healthcare,  Biotechnology
+CLSN,  1.9300,  Healthcare,  Biotechnology
+CLVS,  9.35,  Healthcare,  Biotechnology
+CMCM,  4.2300,  Technology,  Software—Application
+CMO,  5.69,  Real Estate,  REIT—Mortgage
+CMRE,  8.55,  Industrials,  Marine Shipping
+CMRX,  9.95,  Healthcare,  Biotechnology
+CNCE,  6.99,  Healthcare,  Biotechnology
+CNDT,  5.20,  Technology,  Information Technology Services
+CNET,  2.9400,  Communication Services,  Advertising Agencies
+CNSL,  5.96,  Communication Services,  Telecom Services
+CNTY,  8.63,  Consumer Cyclical,  Resorts & Casinos
+CO,  4.1300,  Healthcare,  Diagnostics & Research
+COTY,  7.05,  Consumer Defensive,  Household & Personal Products
+CPG,  3.1900,  Energy,  Oil & Gas E&P
+CPLG,  7.82,  Real Estate,  REIT—Hotel & Motel
+CPLP,  9.92,  Industrials,  Marine Shipping
+CPRX,  4.4200,  Healthcare,  Biotechnology
+CPSS,  4.2300,  Financial Services,  Credit Services
+CRBP,  2.6400,  Healthcare,  Biotechnology
+CRESY,  5.12,  Industrials,  Conglomerates
+CRK,  5.0000,  Energy,  Oil & Gas E&P
+CRNT,  4.83,  Technology,  Communication Equipment
+CRVS,  4.1000,  Healthcare,  Biotechnology
+CRWS,  8.00,  Consumer Cyclical,  Textile Manufacturing
+CSLT,  1.8300,  Healthcare,  Health Information Services
+CSPR,  8.00,  Consumer Cyclical,  Furnishings
+CTG,  6.67,  Technology,  Information Technology Services
+CTIC,  3.9400,  Healthcare,  Biotechnology
+CTMX,  8.25,  Healthcare,  Biotechnology
+CVE,  6.43,  Energy,  Oil & Gas Integrated
+CVGI,  9.32,  Consumer Cyclical,  Auto Parts
+CX,  6.43,  Basic Materials,  Building Materials
+CXDC,  1.1400,  Consumer Cyclical,  Auto Parts
+CXW,  7.29,  Real Estate,  REIT—Specialty
+CYCN,  4.5200,  Healthcare,  Biotechnology
+CYH,  9.32,  Healthcare,  Medical Care Facilities
+DAKT,  5.28,  Technology,  Computer Hardware
+DBVT,  5.91,  Healthcare,  Biotechnology
+DGLY,  2.7100,  Industrials,  Security & Protection Services
+DHC,  4.4600,  Real Estate,  REIT—Healthcare Facilities
+DHT,  5.70,  Energy,  Oil & Gas Midstream
+DHX,  2.5100,  Industrials,  Staffing & Employment Services
+DLNG,  2.8500,  Energy,  Oil & Gas Midstream
+DNOW,  9.76,  Energy,  Oil & Gas Equipment & Services
+DRH,  9.01,  Real Estate,  REIT—Hotel & Motel
+DRRX,  2.5300,  Healthcare,  Drug Manufacturers—Specialty & Generic
+DS,  2.4400,  Consumer Cyclical,  Leisure
+DSKE,  5.65,  Industrials,  Trucking
+DSX,  2.6400,  Industrials,  Marine Shipping
+DTEA,  5.0200,  Consumer Defensive,  Packaged Foods
+DVAX,  9.73,  Healthcare,  Biotechnology
+DXYN,  4.4000,  Consumer Cyclical,  Textile Manufacturing
+DYAI,  6.06,  Healthcare,  Biotechnology
+EDAP,  8.64,  Healthcare,  Medical Devices
+EEX,  4.8300,  Communication Services,  Advertising Agencies
+EGY,  2.9700,  Energy,  Oil & Gas E&P
+EIGI,  9.48,  Technology,  Software—Application
+EMKR,  6.17,  Technology,  Semiconductors
+ENBL,  5.75,  Energy,  Oil & Gas Midstream
+ENDP,  8.95,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ENG,  7.25,  Industrials,  Engineering & Construction
+ENIA,  7.65,  Utilities,  Utilities—Regulated Electric
+ENIC,  3.8700,  Utilities,  Utilities—Regulated Electric
+ENLC,  4.1700,  Energy,  Oil & Gas Midstream
+ENZ,  3.3300,  Healthcare,  Diagnostics & Research
+EOLS,  6.99,  Healthcare,  Drug Manufacturers—Specialty & Generic
+ERF,  3.7800,  Energy,  Oil & Gas E&P
+ERJ,  7.06,  Industrials,  Aerospace & Defense
+ESGC,  2.1000,  Communication Services,  Entertainment
+ESRT,  9.90,  Real Estate,  REIT—Diversified
+ET,  6.70,  Energy,  Oil & Gas Midstream
+ETM,  5.06,  Communication Services,  Broadcasting
+ETRN,  7.08,  Energy,  Oil & Gas Midstream
+EURN,  8.31,  Energy,  Oil & Gas Midstream
+EVC,  3.2400,  Communication Services,  Broadcasting
+EVFM,  3.4800,  Healthcare,  Biotechnology
+EVGN,  8.32,  Healthcare,  Biotechnology
+EVOK,  3.0500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+EXK,  4.9300,  Basic Materials,  Silver
+EXPR,  3.2700,  Consumer Cyclical,  Apparel Retail
+EXTN,  4.8600,  Energy,  Oil & Gas Equipment & Services
+EXTR,  9.35,  Technology,  Communication Equipment
+EYEN,  6.54,  Healthcare,  Biotechnology
+EZPW,  5.20,  Financial Services,  Credit Services
+FBP,  9.87,  Financial Services,  Banks—Regional
+FCRD,  3.8200,  Financial Services,  Asset Management
+FENC,  8.19,  Healthcare,  Biotechnology
+FENG,  1.4700,  Communication Services,  Internet Content & Information
+FI,  3.2400,  Energy,  Oil & Gas Equipment & Services
+FINV,  4.1100,  Financial Services,  Credit Services
+FIT,  6.99,  , 
+FLDM,  7.16,  Healthcare,  Diagnostics & Research
+FLMN,  3.7400,  Energy,  Oil & Gas E&P
+FLNT,  7.15,  Communication Services,  Advertising Agencies
+FNHC,  6.25,  Financial Services,  Insurance—Property & Casualty
+FPH,  6.75,  Real Estate,  Real Estate—Development
+FRBK,  3.3500,  Financial Services,  Banks—Regional
+FRO,  6.49,  Energy,  Oil & Gas Midstream
+FRSX,  9.25,  Consumer Cyclical,  Auto Parts
+FSM,  7.48,  Basic Materials,  Silver
+FTEK,  5.39,  Industrials,  Pollution & Treatment Controls
+FTFT,  6.12,  Technology,  Software—Application
+FTK,  2.1100,  Energy,  Oil & Gas Equipment & Services
+GAIA,  9.82,  Communication Services,  Internet Content & Information
+GALT,  2.3600,  Healthcare,  Biotechnology
+GASS,  2.7700,  Industrials,  Marine Shipping
+GCI,  4.7500,  Communication Services,  Publishing
+GEL,  6.42,  Energy,  Oil & Gas Midstream
+GEN,  0.7549,  Healthcare,  Medical Care Facilities
+GENE,  4.51,  Healthcare,  Diagnostics & Research
+GEO,  8.68,  Real Estate,  REIT—Healthcare Facilities
+GEOS,  9.05,  Energy,  Oil & Gas Equipment & Services
+GERN,  2.0000,  Healthcare,  Biotechnology
+GFI,  9.14,  Basic Materials,  Gold
+GFN,  8.60,  Industrials,  Rental & Leasing Services
+GGAL,  8.32,  Financial Services,  Banks—Regional
+GGB,  4.3200,  Basic Materials,  Steel
+GIFI,  4.0600,  Energy,  Oil & Gas Equipment & Services
+GLAD,  9.98,  Financial Services,  Asset Management
+GLMD,  4.6300,  Healthcare,  Biotechnology
+GLOG,  4.5000,  Energy,  Oil & Gas Midstream
+GLOP,  3.4500,  Energy,  Oil & Gas Midstream
+GLRE,  7.86,  Financial Services,  Insurance—Reinsurance
+GLUU,  9.36,  Communication Services,  Electronic Gaming & Multimedia
+GLYC,  4.0900,  Healthcare,  Biotechnology
+GMBL,  8.41,  Consumer Cyclical,  Gambling
+GMLP,  3.4600,  Energy,  Oil & Gas Midstream
+GNCA,  3.2500,  Healthcare,  Biotechnology
+GNE,  7.88,  Utilities,  Utilities—Regulated Electric
+GNK,  8.06,  Industrials,  Marine Shipping
+GNPX,  6.43,  Healthcare,  Biotechnology
+GNSS,  7.90,  Technology,  Scientific & Technical Instruments
+GNUS,  1.9600,  Communication Services,  Entertainment
+GNW,  3.6100,  Financial Services,  Insurance—Life
+GOGL,  5.10,  Industrials,  Marine Shipping
+GOL,  9.35,  Industrials,  Airlines
+GPMT,  9.95,  Real Estate,  REIT—Mortgage
+GPRO,  8.53,  Technology,  Consumer Electronics
+GROW,  6.91,  Financial Services,  Asset Management
+GSIT,  7.37,  Technology,  Semiconductors
+GSKY,  5.99,  Technology,  Software—Infrastructure
+GSM,  3.4500,  Basic Materials,  Other Industrial Metals & Mining
+GSUM,  1.8500,  Technology,  Software—Application
+GTIM,  3.6400,  Consumer Cyclical,  Restaurants
+GTT,  5.0100,  Communication Services,  Telecom Services
+HALL,  4.3300,  Financial Services,  Insurance—Property & Casualty
+HBIO,  4.93,  Healthcare,  Medical Instruments & Supplies
+HBM,  6.07,  Basic Materials,  Copper
+HBP,  4.0000,  Industrials,  Industrial Distribution
+HCHC,  3.9700,  Communication Services,  Telecom Services
+HDSN,  1.5900,  Basic Materials,  Specialty Chemicals
+HEPA,  2.3700,  Healthcare,  Biotechnology
+HEXO,  7.95,  Healthcare,  Drug Manufacturers—Specialty & Generic
+HIL,  2.3100,  Industrials,  Engineering & Construction
+HL,  5.98,  Basic Materials,  Gold
+HLIT,  7.67,  Technology,  Communication Equipment
+HLX,  4.7500,  Energy,  Oil & Gas Equipment & Services
+HMHC,  5.74,  Consumer Defensive,  Education & Training Services
+HMY,  4.2700,  Basic Materials,  Gold
+HROW,  9.97,  Healthcare,  Drug Manufacturers—Specialty & Generic
+HRTG,  9.32,  Financial Services,  Insurance—Property & Casualty
+HT,  8.20,  Real Estate,  REIT—Hotel & Motel
+HTBK,  9.30,  Financial Services,  Banks—Regional
+HTGM,  6.68,  Healthcare,  Diagnostics & Research
+HUGE,  2.2500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+HWCC,  3.8800,  Industrials,  Industrial Distribution
+HZN,  9.63,  Consumer Cyclical,  Auto Parts
+IAG,  3.4900,  Basic Materials,  Gold
+ICMB,  5.10,  Financial Services,  Asset Management
+ICON,  2.9100,  Consumer Cyclical,  Apparel Manufacturing
+IDEX,  5.05,  Technology,  Software—Application
+IDRA,  5.39,  Healthcare,  Biotechnology
+IFRX,  5.82,  Healthcare,  Biotechnology
+IMGN,  7.80,  Healthcare,  Biotechnology
+IMV,  4.4200,  Healthcare,  Biotechnology
+INFI,  4.44,  Healthcare,  Biotechnology
+ING,  9.36,  Financial Services,  Banks—Diversified
+INN,  9.06,  Real Estate,  REIT—Hotel & Motel
+INOD,  6.70,  Technology,  Information Technology Services
+INVE,  9.81,  Technology,  Computer Hardware
+IO,  2.9700,  Energy,  Oil & Gas Equipment & Services
+ISEE,  5.66,  Healthcare,  Biotechnology
+ISIG,  8.31,  Communication Services,  Advertising Agencies
+ITI,  6.00,  Technology,  Communication Equipment
+ITUB,  5.25,  Financial Services,  Banks—Regional
+IVAC,  6.79,  Industrials,  Aerospace & Defense
+IVR,  3.8300,  Real Estate,  REIT—Mortgage
+JAGX,  2.7700,  Healthcare,  Biotechnology
+JAX,  7.62,  Consumer Cyclical,  Restaurants
+JE,  7.52,  Utilities,  Utilities—Diversified
+JG,  5.72,  Technology,  Software—Application
+JILL,  4.6500,  Consumer Cyclical,  Apparel Retail
+JP,  2.3000,  Financial Services,  Asset Management
+KALA,  9.92,  Healthcare,  Biotechnology
+KDMN,  5.32,  Healthcare,  Biotechnology
+KERN,  7.80,  Healthcare,  Health Information Services
+KGC,  7.05,  Basic Materials,  Gold
+KIN,  5.18,  Healthcare,  Drug Manufacturers—Specialty & Generic
+KMDA,  7.44,  Healthcare,  Drug Manufacturers—Specialty & Generic
+KMPH,  8.00,  Healthcare,  Biotechnology
+KNDI,  8.93,  Consumer Cyclical,  Auto Parts
+KOPN,  7.87,  Technology,  Electronic Components
+KOS,  2.5800,  Energy,  Oil & Gas E&P
+KRMD,  4.3700,  Healthcare,  Medical Instruments & Supplies
+KRP,  8.82,  Energy,  Oil & Gas E&P
+KTCC,  9.38,  Technology,  Computer Hardware
+KXIN,  3.8900,  Consumer Cyclical,  Auto & Truck Dealerships
+KYN,  6.70,  Financial Services,  Asset Management
+KZR,  5.35,  Healthcare,  Biotechnology
+LCI,  6.40,  Healthcare,  Drug Manufacturers—Specialty & Generic
+LEAF,  6.47,  Communication Services,  Internet Content & Information
+LEE,  1.9000,  Communication Services,  Publishing
+LEJU,  3.2300,  Real Estate,  Real Estate Services
+LFT,  3.2300,  Real Estate,  REIT—Mortgage
+LFVN,  9.68,  Consumer Defensive,  Packaged Foods
+LINC,  6.30,  Consumer Defensive,  Education & Training Services
+LIVX,  4.4440,  Communication Services,  Entertainment
+LJPC,  7.19,  Healthcare,  Biotechnology
+LLNW,  4.5200,  Technology,  Software—Infrastructure
+LOMA,  5.39,  Basic Materials,  Building Materials
+LOTZ,  9.65,  Consumer Cyclical,  Auto & Truck Dealerships
+LPCN,  1.9000,  Healthcare,  Biotechnology
+LQDA,  3.2200,  Healthcare,  Biotechnology
+LTRPA,  5.09,  Communication Services,  Internet Content & Information
+LXRX,  8.75,  Healthcare,  Biotechnology
+LXU,  3.9800,  Basic Materials,  Chemicals
+LYG,  1.9900,  Financial Services,  Banks—Regional
+MACK,  7.46,  Healthcare,  Biotechnology
+MAGS,  5.30,  Industrials,  Security & Protection Services
+MARK,  4.4600,  Communication Services,  Internet Content & Information
+MBI,  6.59,  Financial Services,  Insurance—Specialty
+MBIO,  4.7000,  Healthcare,  Biotechnology
+MBT,  9.30,  Communication Services,  Telecom Services
+MCBC,  8.65,  Financial Services,  Banks—Regional
+MDCA,  3.3200,  Communication Services,  Advertising Agencies
+MEIP,  3.8600,  Healthcare,  Biotechnology
+MESA,  7.11,  Industrials,  Airlines
+MESO,  9.88,  Healthcare,  Biotechnology
+MFA,  3.9200,  Real Estate,  REIT—Mortgage
+MFG,  2.8400,  Financial Services,  Banks—Regional
+MFGP,  6.59,  Technology,  Software—Infrastructure
+MFIN,  6.68,  Financial Services,  Credit Services
+MG,  7.76,  Industrials,  Security & Protection Services
+MGI,  8.81,  Financial Services,  Credit Services
+MGTA,  9.83,  Healthcare,  Biotechnology
+MGY,  9.85,  Energy,  Oil & Gas E&P
+MHLD,  2.5000,  Financial Services,  Insurance—Reinsurance
+MIND,  2.2700,  Technology,  Scientific & Technical Instruments
+MIST,  8.25,  Healthcare,  Biotechnology
+MITT,  3.6000,  Real Estate,  REIT—Mortgage
+MLND,  2.3500,  Healthcare,  Biotechnology
+MMLP,  1.9100,  Energy,  Oil & Gas Midstream
+MN,  6.61,  Financial Services,  Asset Management
+MNKD,  5.03,  Healthcare,  Biotechnology
+MNOV,  6.60,  Healthcare,  Biotechnology
+MNTX,  6.22,  Industrials,  Farm & Heavy Construction Machinery
+MPLN,  8.00,  Healthcare,  Healthcare Plans
+MRC,  9.83,  Energy,  Oil & Gas Equipment & Services
+MRCC,  8.77,  Financial Services,  Mortgage Finance
+MRKR,  2.2700,  Healthcare,  Biotechnology
+MRO,  7.93,  Energy,  Oil & Gas E&P
+MTL,  1.9000,  Basic Materials,  Steel
+MUFG,  4.8400,  Financial Services,  Banks—Diversified
+MUX,  1.1600,  Basic Materials,  Other Precious Metals & Mining
+MVO,  3.9499,  Energy,  Oil & Gas E&P
+NAT,  3.2100,  Industrials,  Marine Shipping
+NBEV,  3.6900,  Consumer Defensive,  Beverages—Non-Alcoholic
+NBRV,  2.9900,  Healthcare,  Biotechnology
+NCMI,  4.3500,  Communication Services,  Advertising Agencies
+NDLS,  8.90,  Consumer Cyclical,  Restaurants
+NEOS,  0.9345,  Healthcare,  Drug Manufacturers—Specialty & Generic
+NEPT,  2.3400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+NERV,  3.4000,  Healthcare,  Biotechnology
+NEW,  7.29,  Consumer Defensive,  Education & Training Services
+NEX,  3.8500,  Energy,  Oil & Gas Equipment & Services
+NGL,  2.7200,  Energy,  Oil & Gas Refining & Marketing
+NGS,  9.33,  Energy,  Oil & Gas Equipment & Services
+NH,  4.6300,  Healthcare,  Health Information Services
+NHTC,  6.62,  Consumer Cyclical,  Internet Retail
+NINE,  2.9200,  Energy,  Oil & Gas Equipment & Services
+NL,  4.8200,  Industrials,  Security & Protection Services
+NLY,  8.47,  Real Estate,  REIT—Mortgage
+NM,  4.8000,  Industrials,  Marine Shipping
+NMR,  5.67,  Financial Services,  Capital Markets
+NMRK,  8.05,  Real Estate,  Real Estate Services
+NMTR,  1.8100,  Healthcare,  Biotechnology
+NNA,  3.6600,  Energy,  Oil & Gas Midstream
+NNBR,  7.09,  Industrials,  Conglomerates
+NOA,  9.23,  Energy,  Oil & Gas Equipment & Services
+NOK,  4.3300,  Technology,  Communication Equipment
+NR,  2.8000,  Energy,  Oil & Gas Equipment & Services
+NRT,  4.1000,  Energy,  Oil & Gas Equipment & Services
+NSCO,  8.09,  Industrials,  Rental & Leasing Services
+NTEC,  5.12,  Healthcare,  Biotechnology
+NTP,  8.87,  Real Estate,  Real Estate Services
+NTWK,  4.5000,  Technology,  Software—Application
+NVGS,  9.45,  Energy,  Oil & Gas Midstream
+NWG,  4.5700,  Financial Services,  Banks—Diversified
+NXTD,  1.6300,  Industrials,  Security & Protection Services
+NYMT,  4.0300,  Real Estate,  REIT—Mortgage
+NYMX,  3.0300,  Healthcare,  Biotechnology
+OBSV,  3.9000,  Healthcare,  Biotechnology
+OCSL,  6.01,  Financial Services,  Credit Services
+OEG,  8.84,  Utilities,  Utilities—Diversified
+OGI,  2.5400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+OII,  9.85,  Energy,  Oil & Gas Equipment & Services
+OIS,  6.42,  Energy,  Oil & Gas Equipment & Services
+OMEX,  7.95,  Industrials,  Specialty Business Services
+OPK,  5.40,  Healthcare,  Diagnostics & Research
+OPRA,  9.34,  Technology,  Software—Infrastructure
+OPTT,  4.9200,  Industrials,  Electrical Equipment & Parts
+ORBC,  8.55,  Communication Services,  Telecom Services
+ORC,  5.39,  Real Estate,  REIT—Mortgage
+ORN,  5.90,  Industrials,  Engineering & Construction
+ORTX,  7.74,  Healthcare,  Biotechnology
+OSG,  2.1600,  Energy,  Oil & Gas Midstream
+OTIC,  5.57,  Healthcare,  Biotechnology
+OVID,  3.2470,  Healthcare,  Biotechnology
+OXSQ,  3.9200,  Financial Services,  Asset Management
+PAA,  9.05,  Energy,  Oil & Gas Midstream
+PAGP,  9.15,  Energy,  Oil & Gas Midstream
+PAYS,  5.21,  Industrials,  Specialty Business Services
+PBF,  9.55,  Energy,  Oil & Gas Refining & Marketing
+PBI,  9.23,  Industrials,  Business Equipment & Supplies
+PBPB,  5.26,  Consumer Cyclical,  Restaurants
+PBT,  3.8100,  Energy,  Oil & Gas E&P
+PCTI,  8.41,  Technology,  Communication Equipment
+PCYG,  7.50,  Technology,  Software—Application
+PFMT,  1.1900,  Industrials,  Specialty Business Services
+PFSW,  7.46,  Industrials,  Specialty Business Services
+PGEN,  8.16,  Healthcare,  Biotechnology
+PGRE,  9.08,  Real Estate,  REIT—Office
+PHAS,  4.3500,  Healthcare,  Biotechnology
+PHX,  3.1400,  Energy,  Oil & Gas E&P
+PICO,  9.05,  Utilities,  Utilities—Regulated Water
+PIRS,  2.8800,  Healthcare,  Biotechnology
+PLYA,  6.29,  Consumer Cyclical,  Resorts & Casinos
+PNNT,  5.75,  Financial Services,  Asset Management
+PRGX,  7.54,  Industrials,  Specialty Business Services
+PROG,  6.01,  Healthcare,  Biotechnology
+PRQR,  5.07,  Healthcare,  Biotechnology
+PRTK,  8.05,  Healthcare,  Biotechnology
+PRTY,  8.01,  Consumer Cyclical,  Specialty Retail
+PSEC,  6.83,  Financial Services,  Asset Management
+PSO,  9.86,  Communication Services,  Publishing
+PSTI,  6.99,  Healthcare,  Biotechnology
+PSTX,  9.28,  Healthcare,  Biotechnology
+PTE,  1.2300,  Healthcare,  Biotechnology
+PTEN,  6.31,  Energy,  Oil & Gas Drilling
+PTMN,  2.0100,  , 
+PUMP,  9.41,  Energy,  Oil & Gas Equipment & Services
+PVL,  1.1800,  Energy,  Oil & Gas E&P
+PWFL,  7.98,  Technology,  Communication Equipment
+PXLW,  3.4900,  Technology,  Semiconductors
+PZN,  8.92,  Financial Services,  Asset Management
+QD,  2.7200,  Financial Services,  Credit Services
+QEP,  3.3000,  Energy,  Oil & Gas E&P
+QLGN,  4.1400,  Healthcare,  Biotechnology
+QMCO,  8.11,  Technology,  Computer Hardware
+QTNT,  5.24,  Healthcare,  Diagnostics & Research
+QTT,  3.8100,  Communication Services,  Internet Content & Information
+QUAD,  5.60,  Industrials,  Specialty Business Services
+QUIK,  4.2700,  Technology,  Semiconductors
+QUOT,  9.80,  Communication Services,  Advertising Agencies
+RAIL,  4.2300,  Industrials,  Railroads
+RAVE,  1.2500,  Consumer Cyclical,  Restaurants
+RBBN,  9.07,  Communication Services,  Telecom Services
+RCMT,  2.9900,  Industrials,  Engineering & Construction
+RDHL,  9.32,  Healthcare,  Drug Manufacturers—Specialty & Generic
+RDI,  6.26,  Communication Services,  Entertainment
+REDU,  6.00,  Consumer Defensive,  Education & Training Services
+REED,  1.0800,  Consumer Defensive,  Beverages—Non-Alcoholic
+REFR,  5.3900,  Technology,  Electronic Components
+RELL,  6.07,  Technology,  Electronic Components
+RENN,  7.77,  Consumer Cyclical,  Auto & Truck Dealerships
+REPH,  3.7300,  Healthcare,  Drug Manufacturers—Specialty & Generic
+RES,  5.01,  Energy,  Oil & Gas Equipment & Services
+RESN,  7.55,  Technology,  Semiconductors
+RFIL,  6.15,  Industrials,  Electrical Equipment & Parts
+RFP,  8.11,  Basic Materials,  Paper & Paper Products
+RGLS,  1.6000,  Healthcare,  Biotechnology
+RIG,  3.5400,  Energy,  Oil & Gas Drilling
+RIGL,  4.8000,  Healthcare,  Biotechnology
+RKDA,  3.2500,  Basic Materials,  Agricultural Inputs
+RLH,  3.4200,  Consumer Cyclical,  Lodging
+RMNI,  8.05,  Technology,  Software—Application
+RMTI,  1.4400,  Healthcare,  Drug Manufacturers—Specialty & Generic
+RNWK,  3.0250,  Communication Services,  Electronic Gaming & Multimedia
+RPAI,  9.64,  Real Estate,  REIT—Retail
+RPT,  9.70,  Real Estate,  REIT—Retail
+RRC,  9.55,  Energy,  Oil & Gas E&P
+RRD,  2.4500,  Industrials,  Specialty Business Services
+RVSB,  5.62,  Financial Services,  Banks—Regional
+RWT,  9.44,  Real Estate,  REIT—Mortgage
+RYAM,  8.73,  Basic Materials,  Chemicals
+RYB,  3.6399,  Consumer Defensive,  Education & Training Services
+SAN,  3.3500,  Financial Services,  Banks—Diversified
+SAND,  6.30,  Basic Materials,  Gold
+SANW,  3.6500,  Consumer Defensive,  Farm Products
+SB,  2.1800,  Industrials,  Marine Shipping
+SBBP,  3.1000,  Healthcare,  Biotechnology
+SBS,  7.51,  Utilities,  Utilities—Regulated Water
+SCOR,  4.2900,  Communication Services,  Advertising Agencies
+SCYX,  9.34,  Healthcare,  Drug Manufacturers—Specialty & Generic
+SD,  4.8800,  Energy,  Oil & Gas E&P
+SEAC,  1.3400,  Technology,  Software—Application
+SECO,  2.8400,  Consumer Cyclical,  Internet Retail
+SELB,  5.1400,  Healthcare,  Biotechnology
+SESN,  2.4100,  Healthcare,  Biotechnology
+SFE,  7.60,  Financial Services,  Asset Management
+SFL,  6.84,  Industrials,  Marine Shipping
+SFT,  8.31,  Consumer Cyclical,  Internet Retail
+SGU,  9.87,  Energy,  Oil & Gas Midstream
+SID,  5.82,  Basic Materials,  Steel
+SIEB,  5.65,  Financial Services,  Capital Markets
+SIEN,  5.98,  Healthcare,  Medical Devices
+SIFY,  2.9800,  Communication Services,  Telecom Services
+SIGA,  6.83,  Healthcare,  Biotechnology
+SIRI,  6.14,  Communication Services,  Broadcasting
+SJT,  3.8000,  Energy,  Oil & Gas E&P
+SLCA,  9.49,  Energy,  Oil & Gas Equipment & Services
+SLDB,  8.00,  Healthcare,  Drug Manufacturers—Specialty & Generic
+SLNO,  2.7100,  Healthcare,  Diagnostics & Research
+SMFG,  6.52,  Financial Services,  Banks—Diversified
+SMHI,  3.4300,  Industrials,  Marine Shipping
+SMMT,  9.41,  Healthcare,  Biotechnology
+SMSI,  7.99,  Technology,  Software—Application
+SMTX,  5.87,  Technology,  Electronic Components
+SNCR,  4.83,  Technology,  Software—Application
+SND,  2.0700,  Energy,  Oil & Gas Equipment & Services
+SNDL,  1.1500,  Healthcare,  Drug Manufacturers—Specialty & Generic
+SNR,  5.72,  Real Estate,  REIT—Residential
+SNSS,  3.0700,  Healthcare,  Biotechnology
+SOGO,  8.32,  Communication Services,  Internet Content & Information
+SOLO,  8.82,  Consumer Cyclical,  Auto Manufacturers
+SOS,  3.9800,  Technology,  Software—Infrastructure
+SPPI,  3.9700,  Healthcare,  Biotechnology
+SPRT,  2.4900,  Technology,  Software—Application
+SRAX,  4.77,  Communication Services,  Advertising Agencies
+SRET,  9.20,  , 
+SREV,  1.6900,  Technology,  Software—Application
+SRGA,  2.9073,  Healthcare,  Medical Devices
+SRT,  8.78,  Industrials,  Specialty Business Services
+STCN,  1.9300,  Industrials,  Conglomerates
+STON,  3.1300,  Consumer Cyclical,  Personal Services
+SUPV,  1.8600,  Financial Services,  Banks—Regional
+SVRA,  2.0000,  Healthcare,  Biotechnology
+SVVC,  6.40,  Financial Services,  Asset Management
+SWN,  4.1400,  Energy,  Oil & Gas E&P
+SXC,  5.73,  Basic Materials,  Coking Coal
+SYBX,  4.2400,  Healthcare,  Biotechnology
+SYNC,  2.0900,  Technology,  Software—Infrastructure
+SYNL,  8.11,  Basic Materials,  Steel
+TACT,  8.62,  Technology,  Computer Hardware
+TALO,  9.35,  Energy,  Oil & Gas E&P
+TAST,  6.88,  Consumer Cyclical,  Restaurants
+TCDA,  7.40,  Healthcare,  Drug Manufacturers—Specialty & Generic
+TEF,  4.6200,  Communication Services,  Telecom Services
+TELL,  3.3900,  Energy,  Oil & Gas E&P
+TEO,  6.62,  Communication Services,  Telecom Services
+TGS,  5.09,  Energy,  Oil & Gas Midstream
+TK,  2.7300,  Energy,  Oil & Gas Midstream
+TKC,  5.85,  Communication Services,  Telecom Services
+TLMD,  7.94,  Healthcare,  Medical Care Facilities
+TLSA,  4.0800,  Healthcare,  Biotechnology
+TMST,  5.49,  Basic Materials,  Steel
+TNAV,  4.7800,  Technology,  Software—Application
+TNP,  8.87,  Energy,  Oil & Gas Midstream
+TOUR,  2.8000,  Consumer Cyclical,  Travel Services
+TPRE,  9.87,  Financial Services,  Insurance—Reinsurance
+TREC,  7.17,  Basic Materials,  Specialty Chemicals
+TRIB,  5.86,  Healthcare,  Diagnostics & Research
+TRST,  6.55,  Financial Services,  Banks—Regional
+TRUE,  5.00,  Communication Services,  Internet Content & Information
+TRVG,  2.6600,  Communication Services,  Internet Content & Information
+TRVN,  2.6600,  Healthcare,  Biotechnology
+TTI,  2.2000,  Energy,  Oil & Gas Equipment & Services
+TTNP,  3.7500,  Healthcare,  Biotechnology
+TTOO,  3.2500,  Healthcare,  Diagnostics & Research
+TURN,  6.90,  Financial Services,  Asset Management
+TUSK,  4.5100,  Energy,  Oil & Gas Equipment & Services
+TV,  8.13,  Communication Services,  Broadcasting
+TWI,  7.50,  Industrials,  Farm & Heavy Construction Machinery
+TWIN,  8.60,  Industrials,  Specialty Industrial Machinery
+TWO,  6.27,  Real Estate,  REIT—Mortgage
+TXMD,  2.2370,  Healthcare,  Drug Manufacturers—Specialty & Generic
+TYME,  2.4700,  Healthcare,  Biotechnology
+Ticker,  Price,  Sector,  Industry
+Ticker,  Price,  Sector,  Industry
+UBX,  8.10,  Healthcare,  Biotechnology
+UEPS,  4.6835,  Technology,  Software—Infrastructure
+UGP,  4.4000,  Energy,  Oil & Gas Refining & Marketing
+UIHC,  5.59,  Financial Services,  Insurance—Property & Casualty
+ULBI,  6.61,  Industrials,  Specialty Industrial Machinery
+UMC,  9.53,  Technology,  Semiconductors
+USAT,  9.78,  Technology,  Software—Infrastructure
+USX,  8.51,  Industrials,  Trucking
+UTI,  6.51,  Consumer Defensive,  Education & Training Services
+UTSI,  2.0600,  Technology,  Communication Equipment
+UXIN,  1.4700,  Communication Services,  Internet Content & Information
+VBIV,  3.8951,  Healthcare,  Biotechnology
+VBLT,  2.5000,  Healthcare,  Biotechnology
+VCNX,  3.1600,  Healthcare,  Biotechnology
+VEDL,  9.70,  Basic Materials,  Other Industrial Metals & Mining
+VEON,  1.6900,  Communication Services,  Telecom Services
+VET,  5.0200,  Energy,  Oil & Gas E&P
+VHC,  6.75,  Technology,  Software—Infrastructure
+VIV,  8.99,  Communication Services,  Telecom Services
+VKTX,  9.67,  Healthcare,  Biotechnology
+VNTR,  4.1100,  Basic Materials,  Specialty Chemicals
+VOC,  2.7100,  Energy,  Oil & Gas E&P
+VRA,  9.08,  Consumer Cyclical,  Footwear & Accessories
+VRAY,  5.10,  Healthcare,  Medical Devices
+VRNA,  8.62,  Healthcare,  Biotechnology
+VSTM,  2.3800,  Healthcare,  Biotechnology
+VTNR,  2.0750,  Energy,  Oil & Gas Refining & Marketing
+VXRT,  8.12,  Healthcare,  Biotechnology
+VYGR,  7.55,  Healthcare,  Biotechnology
+WATT,  3.9800,  Technology,  Scientific & Technical Instruments
+WETF,  5.49,  Financial Services,  Asset Management
+WIT,  6.43,  Technology,  Information Technology Services
+WMC,  3.0800,  Real Estate,  REIT—Mortgage
+WNEB,  7.16,  Financial Services,  Banks—Regional
+WPX,  9.11,  , 
+WSR,  8.35,  Real Estate,  REIT—Retail
+WTI,  2.7200,  Energy,  Oil & Gas E&P
+WTRH,  4.0300,  Technology,  Software—Application
+WTTR,  6.09,  Energy,  Oil & Gas Equipment & Services
+WWR,  9.42,  Basic Materials,  Other Industrial Metals & Mining
+XAIR,  6.50,  Healthcare,  Medical Devices
+XAN,  3.9400,  Real Estate,  REIT—Mortgage
+XERS,  7.34,  Healthcare,  Biotechnology
+XIN,  2.3800,  Real Estate,  Real Estate—Development
+XNET,  5.87,  Communication Services,  Advertising Agencies
+XSPA,  2.1983,  Consumer Cyclical,  Personal Services
+YPF,  4.2900,  Energy,  Oil & Gas Integrated
+YRCW,  5.46,  Industrials,  Trucking
+YRD,  4.1200,  Financial Services,  Credit Services
+ZAGG,  4.2600,  Consumer Cyclical,  Specialty Retail
+ZIOP,  5.22,  Healthcare,  Biotechnology
+ZIXI,  9.84,  Technology,  Software—Infrastructure
+ZVO,  5.63,  Consumer Defensive,  Education & Training Services
+ZYNE,  5.38,  Healthcare,  Drug Manufacturers—Specialty & Generic
