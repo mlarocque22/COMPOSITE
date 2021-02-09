@@ -1,7 +1,7 @@
 def main():
-    file = open(r"C:\Users\mark\Desktop\Penny Screens\NYSE\Penny_Stocks_$10.txt",'r')
-    file1 = open(r"C:\Users\mark\Desktop\Penny Screens\NASDAQ\Penny_Stocks_$10.txt",'r') 
-    file2 = open(r"C:\Users\mark\Desktop\Penny Screens\Merged.txt", 'w')
+    file = open(r"\NYSE_Penny_Stocks_$10.txt",'r')
+    file1 = open(r"\NASDAQ_Penny_Stocks_$10.txt",'r') 
+    file2 = open(r"Merged.txt", 'w')
     NYSE_list = []
     NASDAQ_list = []
     COMP_list = []
